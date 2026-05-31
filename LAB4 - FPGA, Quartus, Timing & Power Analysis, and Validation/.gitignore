@@ -1,0 +1,28 @@
+# Quartus / Intel FPGA junk files
+db/
+incremental_db/
+simulation/
+greybox_tmp/
+hc_output/
+*.rpt
+*.summary
+*.qws
+*.pin
+*.sof
+*.pof
+*.jdi
+*.done
+*.smsg
+*.ipinfo
+*.bak
+
+# ModelSim / Questa junk files
+*.mpf
+*.cr.mti
+*.wlf
+transcript
+work/
+
+# OS files
+.DS_Store
+Thumbs.db
